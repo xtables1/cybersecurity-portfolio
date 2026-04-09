@@ -1,4 +1,4 @@
-# 🛡️ Cross-Site Scripting (XSS) Attack in DVWA (Exploitation & Defense Analysis)
+# Cross-Site Scripting (XSS) Attack in DVWA (Exploitation & Defense Analysis)
 
 ---
 
@@ -151,7 +151,7 @@ To prevent XSS vulnerabilities:
 
 ---
 
-## 📌 Project Value
+##  Project Value
 
 This project demonstrates practical skills in:
 
